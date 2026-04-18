@@ -1,2 +1,3 @@
 # 261DSMG1_17200237
-desarrollo_sistemas_moviles
+
+  Repositorio para el curso: Desarrollo de Sitemas Moviles
